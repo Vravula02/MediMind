@@ -1,0 +1,16 @@
+.env
+.venv/
+demo_cache/
+my_cache/
+faiss_index/
+semantic_cache_index/
+.langchain.db
+__pycache__/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+*.pyc
+data/output/processed_pmc_data/pmc_chunks.json
+data/input/*.json
+data/output/processed_pmc_data/batch_details/
+src/medical_graph_rag.egg-info/
